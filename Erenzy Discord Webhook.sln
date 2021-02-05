@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Erenzy Discord Webhook", "Erenzy Discord Webhook\Erenzy Discord Webhook.csproj", "{F9FAFFC9-E4F9-4AFA-B3E6-69263C85AA3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9FAFFC9-E4F9-4AFA-B3E6-69263C85AA3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9FAFFC9-E4F9-4AFA-B3E6-69263C85AA3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9FAFFC9-E4F9-4AFA-B3E6-69263C85AA3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9FAFFC9-E4F9-4AFA-B3E6-69263C85AA3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1876398B-96BD-4606-A300-4D61E5CE5D3E}
+	EndGlobalSection
+EndGlobal

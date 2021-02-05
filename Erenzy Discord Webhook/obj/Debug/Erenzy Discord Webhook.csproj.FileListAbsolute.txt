@@ -1,0 +1,9 @@
+C:\Users\eren_\source\repos\Erenzy Discord Webhook\Erenzy Discord Webhook\bin\Debug\Erenzy Discord Webhook.exe
+C:\Users\eren_\source\repos\Erenzy Discord Webhook\Erenzy Discord Webhook\bin\Debug\Erenzy Discord Webhook.pdb
+C:\Users\eren_\source\repos\Erenzy Discord Webhook\Erenzy Discord Webhook\obj\Debug\Erenzy Discord Webhook.csprojAssemblyReference.cache
+C:\Users\eren_\source\repos\Erenzy Discord Webhook\Erenzy Discord Webhook\obj\Debug\Erenzy_Discord_Webhook.Form1.resources
+C:\Users\eren_\source\repos\Erenzy Discord Webhook\Erenzy Discord Webhook\obj\Debug\Erenzy_Discord_Webhook.Properties.Resources.resources
+C:\Users\eren_\source\repos\Erenzy Discord Webhook\Erenzy Discord Webhook\obj\Debug\Erenzy Discord Webhook.csproj.GenerateResource.cache
+C:\Users\eren_\source\repos\Erenzy Discord Webhook\Erenzy Discord Webhook\obj\Debug\Erenzy Discord Webhook.csproj.CoreCompileInputs.cache
+C:\Users\eren_\source\repos\Erenzy Discord Webhook\Erenzy Discord Webhook\obj\Debug\Erenzy Discord Webhook.exe
+C:\Users\eren_\source\repos\Erenzy Discord Webhook\Erenzy Discord Webhook\obj\Debug\Erenzy Discord Webhook.pdb
